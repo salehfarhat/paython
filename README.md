@@ -1,2 +1,2 @@
 # python
-The First Project by Paython
+The First Project by Python
